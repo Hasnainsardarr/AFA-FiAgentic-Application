@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+pandas
+numpy
+pydantic
+python-dotenv
+streamlit
+langchain
+httpx
+yfinance>=0.2.36
+langchain-openai
+langchain-mcp-adapters
+
+
