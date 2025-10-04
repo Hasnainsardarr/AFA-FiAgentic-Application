@@ -11,5 +11,5 @@ httpx
 yfinance>=0.2.36
 langchain-openai
 langchain-mcp-adapters
-
-
+chromadb>=0.4.22
+openai>=1.12.0
